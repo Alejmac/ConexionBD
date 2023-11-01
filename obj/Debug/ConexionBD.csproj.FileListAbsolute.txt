@@ -1,0 +1,11 @@
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.Form1.resources
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.Properties.Resources.resources
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.csproj.GenerateResource.cache
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Users\jorge\Documents\CURSOS\csharp\ConexionBD\obj\Debug\ConexionBD.pdb
